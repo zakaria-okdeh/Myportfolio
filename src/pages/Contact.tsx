@@ -128,7 +128,7 @@ export default function Contact() {
                           href="mailto:zakaria1.okdeh@gmail.com"
                           className="text-sm text-[#0A0A0A] hover:opacity-70 transition-opacity"
                         >
-                          contact@portfolio.com
+                          zakaria1.okdeh@gmail.com
                         </a>
                       </div>
                     </div>
