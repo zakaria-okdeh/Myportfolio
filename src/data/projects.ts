@@ -44,12 +44,12 @@ export const projects: Project[] = [
     }
   },
   {
-    id: "cnc-workflow",
-    title: "CNC Systems & Manufacturing",
+    id: "Improving Workflow",
+    title: "Improving workflow",
     category: "CAD Design",
-    description: "Improved manufacturing workflows through CNC programming, system optimization, and standardization at Fenestra Windows.",
+    description: "Improved manufacturing workflows through instructional engineered videos, system optimization, and standardization at Fenestra Windows.",
     image: "/images/project-cnc.jpg",
-    tools: ["AutoCAD", "CNC Programming", "SolidWorks"],
+    tools: ["blender", "Davinci Resolve"],
     duration: "Aug 2024 - Oct 2024",
     role: "Engineering Intern",
     details: {
@@ -60,7 +60,7 @@ export const projects: Project[] = [
         "Improved workflows through comprehensive training materials development",
         "Contributed to system standardization documentation reducing setup time by 20%"
       ],
-      technologies: ["AutoCAD", "CNC G-Code", "SolidWorks", "PLC Basics"],
+      technologies: ["Blender", "Davinci Resolve", "Classic Control Basics"],
       gallery: ["/images/project-cnc.jpg"]
     }
   },
