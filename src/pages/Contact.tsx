@@ -125,7 +125,7 @@ export default function Contact() {
                       <div>
                         <span className="text-xs text-[#888888] uppercase tracking-wide block">Email</span>
                         <a
-                          href="mailto:contact@portfolio.com"
+                          href="mailto:zakaria1.okdeh@gmail.com"
                           className="text-sm text-[#0A0A0A] hover:opacity-70 transition-opacity"
                         >
                           contact@portfolio.com
